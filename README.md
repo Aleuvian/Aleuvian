@@ -1,16 +1,18 @@
-## Hi there 👋
+## Aleuvian;
 
-<!--
-**Aleuvian/Aleuvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jordan Burnett, I'm a computer science student at Wright State University and I both run and maintain the labs for Wright State Esports.
 
-Here are some ideas to get you started:
+## About Me:
+- Computer Science student at Wright State University
+- Secretary and Operations Manager for Wright State Esports Club
+- Competitive Overwatch Player in NECC, NACE, OCEC, and FACEIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects:
+- Wright State Esports Discord Rework
+- Wright State Esports Engage Bot
+- Wright State Esports leagueOS Bot (Maybe?)
+
+## Past Projects:
+- Gamehub IXEHL2RP Helix Schema
+- ROBLOX City 17 (2018)
+- ROBLOX City 17 (2024)
